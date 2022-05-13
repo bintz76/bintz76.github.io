@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "알고리즘 문제풀이 DAY1"
+published: true
 ---
 
 # 가운데 글자 가져오기 문제
