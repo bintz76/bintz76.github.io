@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "알고리즘 문제풀이 DAY1"
 published: true
 ---
