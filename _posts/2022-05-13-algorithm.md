@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "알고리즘 문제풀이 DAY1"
+categories: algorithm-js
 published: true
 ---
 
@@ -10,6 +11,7 @@ published: true
 - 제한사항
 
 s는 길이가 1 이상, 100이하인 스트링입니다.
+
 ---
 # 풀이
 s가 짝수 일때는 중간의 두글자, 홀 수 일때는 중간의 한글자가 반환되어야 한다.
