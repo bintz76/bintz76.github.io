@@ -17,6 +17,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 #블로그 글이 안올라가서 임의로 추가
 futrue: true
 
+#이모티콘
+plugins:
+	- jemoji
+
 # Site Settings
 locale                   : "ko-KR"
 title                    : ""
