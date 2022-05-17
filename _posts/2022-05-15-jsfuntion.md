@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "함수"
+permalink: /category/javascript/
 categories: javascript
 published: true
 ---
