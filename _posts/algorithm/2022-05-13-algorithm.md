@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "알고리즘 문제풀이 DAY1"
-permalink: /category/algorithm-js/
-categories: algorithm-js
+permalink: /category/알고리즘 문제/
+categories: 알고리즘 문제
 
 published: true
 ---
