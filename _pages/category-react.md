@@ -1,9 +1,7 @@
 ---
 title: "REACT"
 layout: archive
-permalink: categories/react
-author_profile: true
-sidebar_main: true
+permalink: /react
 ---
 
 {% assign posts = site.categories.react %}

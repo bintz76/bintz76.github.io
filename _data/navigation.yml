@@ -1,7 +1,7 @@
 # main links
 main:
-    - title: "Category"
-      url: /categories/
+  - title: "Category"
+    url: /categories/
   # - title: "Category"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -12,3 +12,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+sidebar-category:
+  - title: "카테고리"
+    children:
+      - title: "REACT"
+        url: "/react"
+# - title: "카테고리B"
+#   url: "/CategoryB"
+# - title: "카테고리C"
+#   url: "/CategoryC"
