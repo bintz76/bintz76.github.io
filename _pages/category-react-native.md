@@ -1,5 +1,5 @@
 ---
-title: "REACT-NATIVE"
+title: "REACT NATIVE"
 layout: archive
 permalink: /reactnative
 ---

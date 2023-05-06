@@ -17,6 +17,8 @@ sidebar-category:
     children:
       - title: "REACT"
         url: "/react"
+      - title: "REACT NATIVE"
+        url: "/reactnative"
 # - title: "카테고리B"
 #   url: "/CategoryB"
 # - title: "카테고리C"
