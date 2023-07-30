@@ -30,6 +30,8 @@ sidebar-category:
     children:
       - title: "멍친구 웹(2022.06)"
         url: "/mungweb"
+      - title: "MTCLOSET(2023.07)"
+        url: "/mycloset"
       # - title: ""
       # - url: ""
       # - title: ""
