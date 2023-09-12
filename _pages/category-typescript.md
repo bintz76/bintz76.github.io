@@ -4,6 +4,8 @@ layout: archive
 permalink: /typescript
 author_profile: true
 sidebar-main: true
+sidebar:
+    nav: sidebar-category
 ---
 
 {% assign posts = site.categories.typescript %}

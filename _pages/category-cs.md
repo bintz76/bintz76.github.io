@@ -4,6 +4,8 @@ layout: archive
 permalink: /cs
 author_profile: true
 sidebar_main: true
+sidebar:
+    nav: sidebar-category
 ---
 
 {% assign posts = site.categories.cs %}

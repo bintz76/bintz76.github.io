@@ -4,6 +4,8 @@ layout: archive
 permalink: /react
 author_profile: true
 sidebar-main: true
+sidebar:
+    nav: sidebar-category
 ---
 
 {% assign posts = site.categories.react %}
