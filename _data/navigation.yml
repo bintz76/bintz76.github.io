@@ -35,6 +35,8 @@ sidebar-category:
         url: "/mungweb"
       - title: "MTCLOSET(2023.07)"
         url: "/mycloset"
+      - title: "소개팅(2023.09)"
+        url: "/blinddate"
       # - title: ""
       # - url: ""
       # - title: ""
