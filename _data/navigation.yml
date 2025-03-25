@@ -1,0 +1,49 @@
+# main links
+# 카테고리
+main:
+  # - title: "Category"
+  # url: /categories/
+  # - title: "Category"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+sidebar-category:
+  - title: "공부기록"
+    children:
+      - title: "REACT"
+        url: "/react"
+      - title: "REACT NATIVE"
+        url: "/reactnative"
+      - title: "JAVASCRIPT"
+        url: "/javascript"
+      - title: "TYPESCRIPT"
+        url: "/typescript"
+      - title: "CS 지식"
+        url: "/cs"
+      - title: "Docker"
+        url: "/docker"
+      - title: "Python"
+        url: "/python"
+  - title: "프로젝트"
+    url: "/project"
+    children:
+      - title: "멍친구 웹(2022.06)"
+        url: "/mungweb"
+      - title: "MTCLOSET(2023.07)"
+        url: "/mycloset"
+      - title: "MONGGLE(2023.09)"
+        url: "/manna"
+      # - title: ""
+      # - url: ""
+      # - title: ""
+      # - url: ""
+# - title: "카테고리B"
+#   url: "/CategoryB"
+# - title: "카테고리C"
+#   url: "/CategoryC"
