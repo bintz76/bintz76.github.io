@@ -52,11 +52,6 @@ _check_status() {
 }
 
 _check_init() {
-  if [[ "$RELEASE_HASH" == "unknown" ]]; then
-    echo "Warning: No previous release commit found. Skipping initialization check."
-    return
-  fi
-
   if [[ $(git rev-parse HEAD^1) == "$RELEASE_HASH" ]]; then
     echo "Already initialized."
     exit 0
