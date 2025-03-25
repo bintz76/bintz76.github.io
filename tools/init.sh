@@ -9,7 +9,7 @@ CLI=("git" "npm")
 
 ACTIONS_WORKFLOW=pages-deploy.yml
 
-RELEASE_HASH=$(git log --grep="chore(release):" -1 --pretty="%H")
+RELEASE_HASH=$(git log --grep="chore(release):" -1 --pretty="%H" 2>/dev/null || echo "unknown")
 
 # temporary file suffixes that make `sed -i` compatible with BSD and Linux
 TEMP_SUFFIX="to-delete"
