@@ -53,13 +53,13 @@ notification:
 
 post:
   written_by: By
-  posted: Posted
-  updated: Updated
+  posted: 작성일
+  updated: 수정일
   words: words
   pageview_measure: views
   read_time:
-    unit: min
-    prompt: read
+    unit: 분
+    prompt: read_time
   relate_posts: Further Reading
   share: Share
   button:
